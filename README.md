@@ -2,6 +2,14 @@
 
 ##### I am a Software engineer with a focus on React development. If I am not programming, I am gaming 👾 or camping 🏕️ with my kids.
 
+---
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,ts,materialui,html,css,figma,git,kotlin,nodejs,mysql,postgres,github,vite,vscode" />
+  </a>
+</p>
+
 --- 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
